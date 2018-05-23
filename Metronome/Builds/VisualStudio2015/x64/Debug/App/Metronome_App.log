@@ -1,0 +1,5 @@
+﻿  Main.cpp
+..\..\Source\Main.cpp(26): warning C4100: 'commandLine': unreferenced formal parameter
+..\..\Source\Main.cpp(52): warning C4100: 'commandLine': unreferenced formal parameter
+  Metronome_App.vcxproj -> C:\Users\ace\Documents\Juce Projects\Metronome\Builds\VisualStudio2015\x64\Debug\App\Metronome.exe
+  Metronome_App.vcxproj -> x64\Debug\App\\Metronome.pdb (Full PDB)
